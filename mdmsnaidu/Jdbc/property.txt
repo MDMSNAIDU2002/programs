@@ -1,0 +1,5 @@
+#Database Configuration
+#Wed Feb 26 17:03:06 IST 2025
+password=M1racle@123
+url=jdbc\:mysql\://localhost\:3306/Bank_Application
+username=root
